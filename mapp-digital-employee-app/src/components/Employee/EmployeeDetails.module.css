@@ -1,0 +1,15 @@
+.EmployeeDetails {
+    width: 30%;
+    margin: 10px 0 0 35%;
+    padding: 30px 20px 20px 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 5px 3px gray;
+}
+
+@media (max-width:480px) {
+    .EmployeeDetails {
+        width: 300px;
+        margin: 0 auto;
+    }
+}

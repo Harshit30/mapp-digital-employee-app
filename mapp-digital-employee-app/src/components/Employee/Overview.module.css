@@ -1,0 +1,8 @@
+.EmptyRow {
+  text-align: center;
+  font-weight: lighter;
+  font-size: x-large;
+  box-shadow: inset 0 0 10px lightgray;
+  color: gray;
+  height: 50px;
+}

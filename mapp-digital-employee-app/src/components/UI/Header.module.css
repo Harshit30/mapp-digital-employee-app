@@ -1,0 +1,14 @@
+.Header {
+  width: 100%;
+  background-image: linear-gradient(to right, black, rgb(100, 99, 99));
+  color: rgb(238, 232, 232);
+  font-size: large;
+  font-weight: bold;
+  height: 50px;
+  padding: 20px 0 0 0;
+}
+
+.HeaderText {
+    margin: 0 0 0 20px;
+    text-align: left;
+}
